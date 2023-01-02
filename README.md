@@ -1,1 +1,1 @@
-# Learning-process
+# Learning process repository.
